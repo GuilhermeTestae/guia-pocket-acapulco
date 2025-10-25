@@ -24,3 +24,9 @@ Node.js
 Android Studio ou Xcode
 
 Dispositivo mobile ou emulador
+
+AUTOR
+Guilherme Testae - IFSP 2025
+
+LICENCA
+Este projeto esta sob a licenca MIT. Veja o arquivo LICENSE para detalhes.
